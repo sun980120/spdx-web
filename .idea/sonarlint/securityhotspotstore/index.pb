@@ -27,8 +27,6 @@ H
 src/routes/CreateOss.jsx,d/e/de57ef3a8e42c1b7ce11a92468f4c156c5eb3854
 T
 $node_modules/@types/react/index.d.ts,e/6/e6e15d6af3efe43cb710ed81a622398127753dfa
-A
-src/setupProxy.js,c/b/cbd9e2737defe43b734c82719102006adccf8ab6
 <
 src/logo.svg,6/d/6d3a8cd532ece5b4ddbd4b3b6a678ba686d300bc
 F
@@ -43,3 +41,16 @@ A
 	yarn.lock,5/3/53585a096fe3a3b96321113856ae62602995a33b
 =
 src/index.css,c/5/c5d38a62d1faae90a2acaa34b79a7ef365c917e4
+P
+ src/components/SpdxSelectBox.jsx,a/6/a66b4401ec1a07dd5730cb0d31d6760bc50b9d33
+:
+
+.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+w
+G.idea/sonarlint/issuestore/a/6/a66b4401ec1a07dd5730cb0d31d6760bc50b9d33,4/e/4e149ed10293979b5dec72d9c844bb5f8ae61d07
+
+Q.idea/sonarlint/securityhotspotstore/a/6/a66b4401ec1a07dd5730cb0d31d6760bc50b9d33,2/6/260d39e598aa568086b9b3f33f38cb0392027244
+S
+#.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8/8/88a9255124c95bdc913197c120a8d560edc59c8e

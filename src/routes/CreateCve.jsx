@@ -35,7 +35,7 @@ function CreateCve(){
                 setMessageColor('red')
             }
         } else {
-            setMessage('항목을 전부 입력해주세요')
+            setMessage('항목을 전부 입력해주세요.')
             setMessageColor('red')
         }
     })

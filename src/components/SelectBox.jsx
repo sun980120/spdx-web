@@ -1,7 +1,6 @@
 import React from "react";
 
 function SelectBox (props) {
-    console.log(props)
     const ossId = props.selectId;
     const licenseDataList = props.selectData; // ["Apache-2.0", "MIT"]
     const handleChange = async(e) => {
