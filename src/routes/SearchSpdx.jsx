@@ -34,10 +34,6 @@ function SearchSpdx() {
     //     }
     // }
     const searchSpdxFunc = useCallback(async () => {
-        console.log(company)
-        console.log(projectName)
-        console.log(projectPackage)
-        console.log(projectVersion)
         const formData = {
             'company': company,
             'projectName': projectName,
